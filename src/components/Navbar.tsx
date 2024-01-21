@@ -1,8 +1,11 @@
-
+import Heading from '../assets/heading.png'
 export default function Navbar() {
   return (
-    <nav className="flex text-white p-4 px-20 items-center">
-        <h1 className="text-5xl">Reply Pal</h1>
+    <nav className="flex text-white  px-20 items-center">
+        <div className=" w-56">
+            <img  src={Heading} />
+
+        </div>
         <div className="flex gap-8 ml-auto text-xl">
             <a href="">HOME</a>
             <a href="">PRICING</a>

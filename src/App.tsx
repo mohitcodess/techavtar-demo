@@ -6,12 +6,12 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="min-h-screen bg-[#070405] text-white font-['Inter']">
+    <div className=" px-16 min-h-screen flex flex-col gap-24 bg-[#070405] text-white font-['Inter']">
       <Navbar />
 
       {/* Hero */}
 
-      <div className="flex p-12 flex-wrap">
+      <div className="flex  flex-wrap">
         <div className="w-1/2 flex flex-col justify-center items-center">
           <p className="text-5xl text-center">
             AUTOMATE CUSTOM <br /> 
@@ -21,7 +21,7 @@ function App() {
           <button className="text-white bg-[#FF8794] p-4 rounded-lg text-4xl mt-12 ">Get Started For Free </button>
 
         </div>
-        <div className="w-1/2 h-full p-8">
+        <div className="w-1/2 h-full ">
           <img src={VideoImage} alt="video" />
         </div>
       </div>
@@ -33,9 +33,9 @@ function App() {
         </p>
 
 
-        <p className=" text-center mt-8 w-4/5 mx-auto p-4 px-8 font-light text-4xl" >
+        <div className=" text-center mt-12 w-4/5 mx-auto   font-light text-4xl" >
           Effortlessly generate tailored replies by analyzing incoming emails <br /> with a single click. Experience the power of ReplyPal for <span className="font-bold"> FREE </span> . Your <br /> ultimate email efficiency tool!
-        </p>
+        </div>
       </div>
 
 
