@@ -1,4 +1,3 @@
-import React from 'react'
 type prop = {
     title:string,
     text:string
