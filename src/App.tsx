@@ -45,7 +45,7 @@ function App() {
         <Card title="OUR TEAM" text="Our small team is dedicated to delivering you a great product. Choosing us supports independent creators, not big corporations. Thank you for your invaluable support!" />
       </div>
 
-      <button className="block text-4xl text-[#FF8794] bg-white px-16 p-4 rounded-lg  mx-auto  mt-12 ">Try ReplyPal For Free</button>
+      <button className="block text-5xl text-[#FF8794] bg-white px-12 p-4 rounded-lg  mx-auto  mt-8 ">Try ReplyPal For Free</button>
 
       <Footer/>
     </div>
