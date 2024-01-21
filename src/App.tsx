@@ -33,8 +33,8 @@ function App() {
         </p>
 
 
-        <div className=" text-center mt-12 w-4/5 mx-auto   font-light text-4xl" >
-          Effortlessly generate tailored replies by analyzing incoming emails <br /> with a single click. Experience the power of ReplyPal for <span className="font-bold"> FREE </span> . Your  ultimate email efficiency tool!
+        <div className=" text-center mt-12  mx-auto   font-light text-4xl" >
+          Effortlessly generate tailored replies by analyzing incoming emails <br /> with a single click. Experience the power of ReplyPal for <span className="font-bold"> FREE </span> . Your <br/>  ultimate email efficiency tool!
         </div>
       </div>
 
