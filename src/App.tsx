@@ -18,7 +18,7 @@ function App() {
             EMAIL REPLIES AT THE  <br />
             TOUCH OF A BUTTON
           </p>
-          <button className="text-white bg-[#FF8794] p-4 rounded-lg text-4xl mt-12 ">Get Started For Free </button>
+          <button className="text-white bg-[#FF8794] p-4 rounded-lg text-4xl mt-12 ">Get Started For Free! </button>
 
         </div>
         <div className="w-1/2 h-full ">
