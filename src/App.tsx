@@ -39,13 +39,13 @@ function App() {
       </div>
 
 
-      <div className="flex gap-28 p-8 px-16">
+      <div className="flex gap-16 p-8 ">
         <Card title="FREE FOR LIFE" text="Enjoy the power of ReplyPal for FREE, allowing you to send up to 300 emails per month at no cost. Our goal is to bring  the power of productivity accessible to all!"/>
         <Card title="CUSTOM REPLY" text="Our intuitive AI allows you to choose your reply style & crafts a custom response by analyzing the incoming email. No more cookie cutter responses!"/>
         <Card title="OUR TEAM" text="Our small team is dedicated to delivering you a great product. Choosing us supports independent creators, not big corporations. Thank you for your invaluable support!" />
       </div>
 
-      <button className="block text-5xl text-[#FF8794] bg-white px-12 p-4 rounded-lg  mx-auto  mt-8 ">Try ReplyPal For Free</button>
+      <button className="block text-5xl text-[#FF8794] bg-white px-12 py-6 rounded-xl  mx-auto  mt-8 ">Try ReplyPal For Free!</button>
 
       <Footer/>
     </div>
